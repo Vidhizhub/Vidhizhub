@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Vidhita Kumari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 👨‍💻 All of my projects are available at [https://github.com/Vidhizhub](https://github.com/Vidhizhub)
 
-- 📫 How to reach me **vidhita321@gmail.com**
+👨‍💻 All of my projects are available at [https://github.com/Vidhizhub](https://github.com/Vidhizhub)
+
+📫 How to reach me **vidhita321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
